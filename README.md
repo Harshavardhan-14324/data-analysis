@@ -1,4 +1,4 @@
-# IPL Match Data Analysis – Project**
+# IPL Match Data Analysis – Project
 
 ## project objectives
  

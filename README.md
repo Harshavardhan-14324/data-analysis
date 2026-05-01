@@ -40,3 +40,6 @@ Common visualizations include bar charts, pie charts, and line graphs.
 <img width="1919" height="1078" alt="Screenshot 2026-04-29 111320" src="https://github.com/user-attachments/assets/de18eb2a-e73f-4668-a376-2a7386098d56" />
 
 
+## final conclusion
+This project analyzes IPL data to understand team and player performance. It uses data analysis tools to generate insights and improve decision-making.
+

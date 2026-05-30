@@ -9,7 +9,7 @@ To identify the most successful teams and top-performing players based on match 
 <a href="https://github.com/harsha14324-KA/data-analysis/commit/641153a4a394598571a332ce865208f1bb1e93f3">ipl data </a>
 
 ## question (kpi)
-1.How many total matches were played?
+1.How many total matches were played?\n
 2.How many matches were played in each season?
 3.List all unique cities where matches were played
 4.How many matches were played in each city?

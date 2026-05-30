@@ -9,16 +9,26 @@ To identify the most successful teams and top-performing players based on match 
 <a href="https://github.com/harsha14324-KA/data-analysis/commit/641153a4a394598571a332ce865208f1bb1e93f3">ipl data </a>
 
 ## question (kpi)
-1.How many total matches were played?\n
+1.How many total matches were played?
+
 2.How many matches were played in each season?
+
 3.List all unique cities where matches were played
+
 4.How many matches were played in each city?
+
 5.Show all teams in the dataset
+
 6.Which team has won the most matches?
+
 7.How many matches did each team win?
+
 8.Which player has the most Player of the Match awards?
+
 9.Which venue hosted the maximum matches?
+
 10.What is the highest target score
+
 
 ## dashboard image 
 <a href="https://github.com/harsha14324-KA/data-analysis/blob/main/Screenshot%202026-04-29%20111320.png">dash board image</a> 
